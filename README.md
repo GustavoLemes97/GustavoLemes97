@@ -1,4 +1,4 @@
-### Olá :wave:, sou o Gustavo, tenho 25 ano, sou de Goiânia e sou formado em Engenharia da computação.
+### Olá :wave:, sou Gustavo, tenho 25 anos, moro em Goiânia e sou formado em Engenharia da computação.
 
 ##
 
